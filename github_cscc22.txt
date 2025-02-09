@@ -1,1 +1,1 @@
-Hola Git! We are from CSCC22
+Hello Git!
